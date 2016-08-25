@@ -1,7 +1,7 @@
 # Site settings
 markdown: kramdown
 highlighter: pygments
-permalink: /:year/:month/:title/
+permalink: /:year/:month/:title
 excerpt_separator: "<!-- more -->"
 
 github: guohua

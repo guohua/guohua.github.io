@@ -1,9 +1,4 @@
 ---
-date: 2016-08-25 17:59
-status: public
-title: 'AutoCAD Managed .NET Compatibility'
----
----
 layout:     post
 category:   "objectarx"
 title:      "AutoCAD Managed .NET Compatibility"

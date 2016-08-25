@@ -1,6 +1,6 @@
 # Site settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: /:year/:month/:title
 excerpt_separator: "<!-- more -->"
 

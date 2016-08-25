@@ -4,7 +4,7 @@ category:   "objectarx"
 title:      "ObjectARX 所有版本下载地址"
 subtitle:   ""
 date:       2016-08-23
-author:     "Guohua"
+author:     "郭华"
 tags:
     - ObjectARX
 ---

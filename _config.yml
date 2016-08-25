@@ -1,0 +1,28 @@
+# Site settings
+markdown: kramdown
+highlighter: pygments
+permalink: /:year/:month/:title/
+excerpt_separator: "<!-- more -->"
+
+github: guohua
+author: "guohua"
+email: guohua#hotmail.com
+name: "郭华的个人博客"
+url: https://guohua.io
+domain: guohua.io
+all_categories: [
+["ObjectARX", "ObjectARX 二次开发","/posts/objectarx"],
+["Program", "软件编程","/posts/program"],
+["Markdown", "Markdown","/posts/markdown"]
+]
+
+paginate: 8
+paginate_path: "posts/page:num"
+timezone: America/Los_Angeles
+
+collections:
+  docs:
+    output: true
+
+gems:
+ - jekyll-paginate

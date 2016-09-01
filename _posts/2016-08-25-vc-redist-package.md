@@ -1,6 +1,6 @@
 ---
 layout:     post
-category:   "program"
+category:   "Program"
 title:      "Visual C++ 所有运行库下载"
 subtitle:   ""
 date:       2016-08-25

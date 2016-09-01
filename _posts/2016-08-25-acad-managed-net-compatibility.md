@@ -1,6 +1,6 @@
 ---
 layout:     post
-category:   "objectarx"
+category:   "ObjectARX"
 title:      "AutoCAD Managed .NET Compatibility"
 subtitle:   ""
 date:       2016-08-25

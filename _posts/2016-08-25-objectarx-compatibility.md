@@ -1,6 +1,6 @@
 ---
 layout:     post
-category:   "objectarx"
+category:   "ObjectARX"
 title:      "ObjectARX Compatibility"
 subtitle:   ""
 date:       2016-08-25

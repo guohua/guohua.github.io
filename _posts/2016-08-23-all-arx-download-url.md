@@ -1,6 +1,6 @@
 ---
 layout:     post
-category:   "objectarx"
+category:   "ObjectARX"
 title:      "ObjectARX 所有版本下载地址"
 subtitle:   ""
 date:       2016-08-23
